@@ -1,15 +1,16 @@
 # give me a star please! ⭐ 
 if you using this project for learning go, or chose a roadmap from here, thanks!
 
-![alt text](<roadmap golang.png>)
 
-![alt text](Dorozhnaja-karta-Go.png)
+![roadmap1](Dorozhnaja-karta-Go.png)
+
+![roadmap3](roadmap.png)
 
 #### 🇷🇺: это - roadmap по golang! Roadmap наглядно показывает стратегию достижения той или иной цели, будь то реализация проекта, развитие бизнеса, создание и продвижение продукта, обучение.
 
 #### eng: this is the golang roadmap! Roadmap clearly shows the strategy for achieving a particular goal, be it project implementation, business development, product creation and promotion, training.
 
-![alt text](golang-developer-roadmap.png)
+![roadmap2](golang-developer-roadmap.png)
 
 ## 🇷🇺: roadmap'ы составлены не мной, а лишь собраны здесь, дял наглядного понимания и возможности выбора наиудобнейшего для себя
 
